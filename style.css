@@ -1,0 +1,22 @@
+* {
+    background-color: lightgreen;
+    font-family: "Times New Roman", sans-serif;
+}
+
+h1 {
+    color: lightsalmon;
+
+}
+
+p {
+    color: lightcoral;
+}
+
+h2 {
+    color: lightcoral;
+}
+
+li {
+    color: lightcoral;
+    font-weight: bold;
+}
